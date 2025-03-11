@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTranslate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translate key="Settings" translate="CONFIGURACIÓN" />
+  <Translate key="Gameplay" translate="JUGABILIDAD" />
+  <Translate key="Graphics" translate="GRÁFICOS" />
+  <Translate key="Audio" translate="AUDIO" />
+  <Translate key="Controls" translate="CONTROLES" />
+  <Translate key="Back" translate="ATRÁS" />
+  <Translate key="controls" translate="CONTROLES" />
+  <Translate key="RESET TO DEFAULT SETTINGS" translate="REINICIAR LA CONFIGURACIÓN" />
+  <Translate key="RESET CONTROLS?" translate="¿REINICIAR CONTROLES?" />
+  <Translate key="RESET GAMEPLAY SETTINGS?" translate="¿REINICIAR LA CONFIGURACIÓN DEL JUEGO?" />
+  <Translate key="Reset all gameplay settings to default properties?" translate="¿Quieres restablecer todos los ajustes&#xA;&#xA;de juego a la configuración por predeterminada?" />
+  <Translate key="Reset all controls to default settings?" translate="¿Quieres restablecer todos los controles&#xA;&#xA;a la configuración predeterminada?" />
+  <Translate key="MOVEMENT" translate="MOVIMIENTO" />
+  <Translate key="MOVE FORWARD" translate="ADELANTE" />
+  <Translate key="move left" translate="IZQUIERDA" />
+  <Translate key="MOVE BACK" translate="ATRÁS" />
+  <Translate key="Move RIGHT" translate="DERECHA" />
+  <Translate key="jump" translate="SALTAR" />
+  <Translate key="crouch" translate="AGACHARSE" />
+  <Translate key="hold" translate="MANTENER" />
+  <Translate key="sprint" translate="CORRER" />
+  <Translate key="TUMBLE" translate="VOLTERETA" />
+  <Translate key="GRABBING" translate="AGARRANDO" />
+  <Translate key="grab" translate="AGARRAR" />
+  <Translate key="rotate&#xA;" translate="ROTAR" />
+  <Translate key="push" translate="ALEJAR" />
+  <Translate key="pull" translate="ATRAER" />
+  <Translate key="OTHER" translate="OTROS" />
+  <Translate key="map&#xA;" translate="MAPA" />
+  <Translate key="interact&#xA;" translate="INTERACTUAR" />
+  <Translate key="inventory 1" translate="INVENTARIO 1" />
+  <Translate key="inventory 2" translate="INVENTARIO 2" />
+  <Translate key="inventory 3" translate="INVENTARIO 3" />
+  <Translate key="chat" translate="CHAT" />
+  <Translate key="confirm&#xA;" translate="CONFIRMAR" />
+  <Translate key="back&#xA;" translate="ATRÁS" />
+  <Translate key="menu&#xA;" translate="MENÚ" />
+  <Translate key="spectate next" translate="OBSERVAR SIGUIENTE" />
+  <Translate key="spectate previous" translate="OBSERVAR ANTERIOR" />
+  <Translate key="push to talk" translate="PULSAR PARA HABLAR" />
+  <Translate key="Master volume" translate="VOLUMEN GENERAL" />
+  <Translate key="music volume" translate="VOL. DE LA MÚSICA" />
+  <Translate key="sound effects volume" translate="VOL. DE LOS EFECTOS" />
+  <Translate key="proximity voice volume" translate="VOL. VOZ DE PROXIMIDAD" />
+  <Translate key="Text To speech" translate="TEXTO A VOZ" />
+  <Translate key="microphone" translate="Micrófono" />
+  <Translate key="device name" translate="Nombre del dispositivo" />
+  <Translate key="Microphone Volume" translate="VOL. DEL MICRÓFONO" />
+  <Translate key="NONE" translate="NINGUNO" />
+  <Translate key="Push to Talk" translate="PULSAR PARA HABLAR" />
+  <Translate key="ON" translate="SI" />
+  <Translate key="OFF" translate="NO" />
+  <Translate key="Window Mode" translate="PANTALLA COMPLETA" />
+  <Translate key="Vsync" translate="V-SYNC" />
+  <Translate key="Gamma" translate="BRILLO" />
+  <Translate key="Max FPS" translate="FPS MÁXIMOS" />
+  <Translate key="Light Distance" translate="DIST. DE LA LUZ" />
+  <Translate key="Shadow Quality" translate="CALID. DE SOMBRAS" />
+  <Translate key="Shadow Distance" translate="DIST. DE SOMBRAS" />
+  <Translate key="Motion Blur" translate="DESENFOQUE DE MOVIMIENTO" />
+  <Translate key="Lens Distortion" translate="DISTORSIÓN DE LENTES" />
+  <Translate key="Bloom" translate="BLOOM" />
+  <Translate key="Chromatic Aberration" translate="ABERRACIÓN CROMÁTICA" />
+  <Translate key="Grain" translate="GRANO DE PELÍCULA" />
+  <Translate key="Glitch Loop" translate="BUCLE GLITCH" />
+  <Translate key="Pixelation" translate="PIXELADO" />
+  <Translate key="Tips" translate="CONSEJOS" />
+  <Translate key="Player Names" translate="NOMBRES JUGADORES" />
+  <Translate key="Aim Sensitivity" translate="SENSIBILIDAD AL MIRAR" />
+  <Translate key="Camera Smoothing" translate="SUAVIDAD DE LA CÁMARA" />
+  <Translate key="Camera Shake" translate="TEMBLOR DE LA CÁMARA" />
+  <Translate key="Camera Noise" translate="RUIDO DE LA CÁMARA" />
+  <Translate key="Camera Animation" translate="ANIMACIÓN DE LA CÁMARA" />
+  <Translate key="pop up" translate="ventana emergente" />
+  <Translate key="YES" translate="SÍ" />
+  <Translate key="NO" translate="NO" />
+  <Translate key="Are you sure?&#xA;Are you sure?&#xA;&#xA;Are you sure?" translate="¿Estás seguro?&#xA;¿Estás seguro?&#xA;&#xA;¿Estás seguro?" />
+  <Translate key="LOADING" translate="CARGANDO" />
+  <Translate key="&lt; GO BACK" translate="&gt; VOLVER ATRÁS" />
+  <Translate key="SAVED GAMES" translate="&#xA;PARTIDAS GUARDADAS" />
+  <Translate key="Singleplayer mode" translate="MODO EN SOLITARIO" />
+  <Translate key="NEW GAME" translate="NUEVA PARTIDA" />
+  <Translate key="Saved games" translate="PARTIDAS GUARDADAS" />
+  <Translate key="Here's all the fun you’ve had and the opportunity to pick up right where you left off." translate="Aquí está toda la diversión que has tenido y la oportunidad de retomar justo donde lo dejaste." />
+  <Translate key="Team semiooeeeeeeeeeets&lt;/b&gt;" translate="Equipo semiooeeeeeeeeeets&lt;/b&gt;" />
+  <Translate key="BUILD NAME" translate="NOMBRE DE LA BUILD" />
+  <Translate key="host game" translate="CREAR PARTIDA" />
+  <Translate key="Tutorial" translate="TUTORIAL" />
+  <Translate key="join game" translate="UNIRSE A PARTIDA" />
+  <Translate key="singleplayer" translate="JUGAR EN SOLITARIO" />
+  <Translate key="Quit game" translate="SALIR DEL JUEGO" />
+  <Translate key="Host a game?" translate="¿CREAR LA PARTIDA?" />
+  <Translate key="The friend with the best computer&#xA;and internet should host.&#xA;&#xA;Are you this friend?" translate="El amigo que tenga el mejor&#xA;&#xA;computador e internet debería de&#xA;&#xA;crear la partida.&#xA;&#xA;&#xA;¿eres tú, esté amigo?" />
+  <Translate key="Default" translate="Por defecto" />
+  <Translate key="toggle" translate="ACTIVAR" />
+  <Translate key="Master Volume" translate="VOLUMEN GENERAL" />
+  <Translate key="Music Volume" translate="VOL. DE LA MÚSICA" />
+  <Translate key="Sfx Volume" translate="VOL. DE LOS EFECTOS" />
+  <Translate key="Proximity Voice Volume" translate="VOL. VOZ DE PROXIMIDAD" />
+  <Translate key="Text to Speech Volume" translate="VOL. TEXTO A VOZ" />
+  <Translate key="Microphone" translate="MICRÓFONO" />
+  <Translate key="Fullscreen" translate="Pantalla completa" />
+  <Translate key="Windowed" translate="Modo ventana" />
+  <Translate key="Unlimited" translate="Sin limite" />
+  <Translate key="Very High" translate="Muy alto" />
+  <Translate key="Low" translate="Bajo" />
+  <Translate key="Quit Game" translate="Salir del juego" />
+  <Translate key="Close the entire application?" translate="¿Quieres cerrar el juego?" />
+  <Translate key="Start a new game?" translate="¿Empezar una nueva partida?" />
+  <Translate key="Do you want to start a game?" translate="¿Quieres empezar una nueva partida?" />
+  <Translate key="KING OF THE LOSERS!" translate="&#xA;&#xA;¡ALABAD AL REY DE LOS PERDEDORES!" />
+  <Translate key="CHAT:" translate="CHAT:" />
+  <Translate key="EXTRACTION POINT ACTIVATED" translate="PUNTO DE&#xA;&#xA;EXTRACCIÓN ACTIVADO" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move" translate="Usa &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; para moverte" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;LEFT MOUSE + RIGHT MOUSE&lt;/b&gt;&lt;/u&gt; to rotate an object you are holding" translate="Usa el &lt;b&gt;&lt;u&gt;RATÓN IZQ. + RATÓN DER.&lt;/b&gt;&lt;/u&gt; para girar el objeto que estas sosteniendo" />
+  <Translate key="UPGRADES" translate="MEJORAS" />
+  <Translate key="STRENGTH&#xA;STAMINA&#xA;" translate="FUERZA&#xA;RESISTENCIA&#xA;" />
+  <Translate key="LAST LOSER STANDING!" translate="¡ÚLTIMO PERDEDOR EN PIE!" />
+  <Translate key="&lt;b&gt;Mission &gt; &lt;/b&gt;  Fill all extraction points with valuables&#xA;" translate="&lt;b&gt;MISIÓN &gt; &lt;/b&gt;  Llena el Punto de Extracción con objetos valiosos&#xA;" />
+  <Translate key="SWORD" translate="ESPADA" />
+  <Translate key="POWER MODE: WEAK" translate="MODO ENERGÍA: DÉBIL" />
+  <Translate key="READY" translate="LISTO" />
+  <Translate key="MCJANNEK STATION" translate="ESTACIÓN MCJANNEK" />
+  <Translate key="Change color" translate="CAMBIAR COLOR" />
+  <Translate key="Menu" translate="Menú" />
+  <Translate key="Continue" translate="CONTINUAR" />
+  <Translate key="Self Destruct" translate="AUTO DESTRUIRSE" />
+  <Translate key="Main Menu" translate="MENÚ PRINCIPAL" />
+  <Translate key="■" translate="■" />
+  <Translate key="select color" translate="ELIJE EL COLOR" />
+  <Translate key="Confirm" translate="CONFIRMAR" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the extraction point with valuables" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Llena el Punto de Extracción&#xA;&#xA;con objetos valiosos" />
+  <Translate key="ACTIVE" translate="ACTIVO" />
+  <Translate key="C.A.R.T." translate="C.A.R.T." />
+  <Translate key="Mode: STRONG" translate="Modo: PESADO" />
+  <Translate key="Small" translate="Pequeña" />
+  <Translate key="Very small" translate="Muy bajo" />
+  <Translate key="!!!!!!!!!" translate="¡¡¡¡!!!!" />
+  <Translate key="TAX RETURN" translate="TAX RETURN" />
+  <Translate key="EXTRACTING" translate="XTRAYENDO" />
+  <Translate key="EXTRACTION POINT COMPLETED" translate="PUNTO DE EXTRACCIÓN&#xA;&#xA;COMPLETADA" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get back to the truck!" translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;¡Vuelve a la Camión!" />
+  <Translate key="COMPLETED" translate="COMPLETADA" />
+  <Translate key="STARTING ENGINE" translate="ENCENDIENDO EL MOTOR" />
+  <Translate key="STARTING ENGINE." translate="ENCENDIENDO EL MOTOR." />
+  <Translate key="STARTING ENGINE.." translate="ENCENDIENDO EL MOTOR.." />
+  <Translate key="STARTING ENGINE..." translate="ENCENDIENDO EL MOTOR..." />
+  <Translate key="SHOP" translate="TIENDA" />
+  <Translate key="SERVICE STATION" translate="ESTACIÓN DE SERVICIO" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Buy stuff in the shop" translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Compra cosas en la tienda" />
+  <Translate key="TAX$$$$$$" translate="TAX$$$$$$" />
+  <Translate key="$TAXTAX$$" translate="$TAXTAX$$" />
+  <Translate key="Inflatable Hammer" translate="Martillo inflable" />
+  <Translate key="Grenade" translate="GRANADA" />
+  <Translate key="$$$$TAX$$" translate="$$$$TAX$$" />
+  <Translate key="Stun Grenade" translate="GRANADA ATURDIDORA" />
+  <Translate key="Energy Crystal" translate="Cristal de Energía" />
+  <Translate key="POCKET C.A.R.T." translate="C.A.R.T. de bolsillo" />
+  <Translate key="Sprint Speed Upgrade" translate="Mejora - Velocidad al correr" />
+  <Translate key="Map Player Count Upgrade" translate="Mejora - Contador de Jugadores para el Mapa" />
+  <Translate key="Health Upgrade" translate="Mejora - Salud" />
+  <Translate key="Range Upgrade" translate="Mejora - Rango" />
+  <Translate key="Tumble Launch Upgrade" translate="Mejora - Lanzamiento de Voltereta" />
+  <Translate key="Stamina Upgrade" translate="Mejora - Resistencia" />
+  <Translate key="Shotgun" translate="Escopeta" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak under stuff and hide." translate="Usa &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; para agacharte debajo de objetos y esconderte." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Enjoy the ride, recharge stuff and GEAR UP!" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Disfruta del viaje, recarga tus&#xA;&#xA;cosas y ¡PREPÁRATE!" />
+  <Translate key="Exit to main menu?" translate="¿Salir al menú principal?" />
+  <Translate key="R.E.P.O." translate="R.E.P.O." />
+  <Translate key="Multiplayer mode" translate="Modo multijugador" />
+  <Translate key="High" translate="Alto" />
+  <Translate key="Medium" translate="Medio" />
+  <Translate key="Very Low" translate="Muy bajo" />
+  <Translate key="DELETE SAVE" translate="ELIMINAR" />
+  <Translate key="LOAD SAVE" translate="CARGAR" />
+  <Translate key="TOTAL HAUL:" translate="ENTREGAS TOTALES:" />
+  <Translate key="Load save?" translate="¿Cargar guardado?" />
+  <Translate key="Load this save file?" translate="¿Cargar este archivo de guardado?" />
+  <Translate key="SWIFTBROOM ACADEMY" translate="ACADEMIA SWIFTBROOM" />
+  <Translate key="LOCKED" translate="CERRADO" />
+  <Translate key="TAX$$TAX$" translate="TAX$$TAX$" />
+  <Translate key="TAXTAX$$$" translate="TAXTAX$$$" />
+  <Translate key="Off" translate="Apag." />
+  <Translate key="GAME OVER" translate="FIN DEL JUEGO" />
+  <Translate key="DISPOSAL ARENA" translate="ARENA DE DESECHOS" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move." translate="Usa &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; para moverte." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; on your keyboard until the progress bar is filled!" translate="¡Tendrás que usar &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; en tu teclado hasta que&#xA;&#xA;la barra de progreso esté llena!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Move to fill the progress bar" translate="&#xA;&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Muévete hasta llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Good job! &lt;sprite name=creepycrying&gt;" translate="¡Buen trabajo! &lt;sprite name=creepycrying&gt;" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to do jumps until the progress bar is filled!" translate="¡Presiona &lt;u&gt;&lt;b&gt;ESPACIO&lt;/b&gt;&lt;/u&gt; para hacer saltos hasta que se llene&#xA;&#xA;la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Jump to fill the progress bar" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Salta para llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to jump." translate="Presiona &lt;u&gt;&lt;b&gt;ESPACIO&lt;/b&gt;&lt;/u&gt; para saltar." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; until the progess is filled!" translate="¡Mantén presionado &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt;  y usa &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; hasta que se llene&#xA;&#xA;la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sneak to fill the progress bar" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Agáchate para llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak. Monsters are less likely to see you." translate="Presiona &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; para agacharte. Los monstruos tendrán menos probabilidades de verte." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and walk in under a prop, stay there until you fill the progress bar!" translate="¡Mantén presionado &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; y camina hacia un objeto, quédate ahí&#xA;&#xA;hasta llenar la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Hide to fill the progress bar" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Escóndete para llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to sprint until you filled the progress bar! If the energy runs out, wait for it to regenerate!" translate="¡Mantén presionado &lt;u&gt;&lt;b&gt;SHIFT IZQ.&lt;/b&gt;&lt;/u&gt; y usa &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; para correr hasta llenar la&#xA;&#xA;barra de progreso! ¡Si la energía se acaba, espera a que se regenere!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sprint to fill the progress bar" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Corre para llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; to sprint. This drains your energy." translate="Mantén presionado &lt;u&gt;&lt;b&gt;SHIFT IZQ.&lt;/b&gt;&lt;/u&gt; para correr. Esto drenara tu energía." />
+  <Translate key="Run (&lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt;), jump (&lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt;) and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to throw yourself. Do it until you fill the progress bar!" translate="Corre con (&lt;u&gt;&lt;b&gt;SHIFT IZQ.&lt;/b&gt;&lt;/u&gt;), salta (&lt;u&gt;&lt;b&gt;ESPACIO&lt;/b&gt;&lt;/u&gt;) y presiona &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; para lanzarte&#xA;&#xA;con voltereta. ¡Hazlo hasta llenar la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Run, jump and fall to fill the progress bar" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Corre, salta y cae para llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Run and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to fall with style. Jumping also helps!" translate="Corre y presiona &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; para hacer una voltereta y caer con estilo. ¡Saltar también ayuda!" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it until you fill the progress bar!" translate="¡Agarra con (&lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;) y sosténlo hasta llenar la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Carry that thing to fill the progress bar" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Agarra y sostén esas cosas hasta&#xA;&#xA;llenar la barra de progreso" />
+  <Translate key="Grab objects using &lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;." translate="Agarra objetos usando el botón &lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item and use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of the item you grabbed!" translate="¡Agarra con (&lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;) un objeto y usa la &lt;u&gt;&lt;b&gt;RUEDA DEL RATÓN&lt;/b&gt;&lt;/u&gt;&#xA;&#xA;para alterar la distancia del objeto que has agarrado!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Alter the distance of a grabbed item" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Altera la distancia de un objeto&#xA;&#xA;agarrado para llenar la barra de progreso" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of grabbed objects." translate="Usa la &lt;u&gt;&lt;b&gt;RUEDA DEL RATÓN&lt;/b&gt;&lt;/u&gt; para alterar la distancia de los objetos agarrados." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it while you press &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt; and move your aim to rotate it. Rotate until you fill the progress bar!" translate="Agarra con (&lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;) para sostener algun objeto y mientras&#xA;&#xA;presionas manteniendo &lt;u&gt;&lt;b&gt;RATÓN DER.&lt;/b&gt;&lt;/u&gt; mueve tu cámara para girarlo. ¡Gíralo hasta llenar&#xA;&#xA;la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Rotate stuff to fill the progress bar." translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Gira objetos para llenar la&#xA;&#xA;barra de progreso" />
+  <Translate key="Rotate grabbed objects using &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt;." translate="Gira los objetos agarrados usando el botón &lt;u&gt;&lt;b&gt;RATÓN DER.&lt;/b&gt;&lt;/u&gt;" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the ball and toggle it on and off using &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; until you fill the progress bar!" translate="¡Agarra (&lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;) la bola y alternala usando &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; hasta llenar la&#xA;&#xA;barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Toggle that thing on and off." translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Enciende y apaga esa cosa." />
+  <Translate key="Grab and press &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; to toggle items." translate="Agarra y presiona &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; para alternar entre encendido y apagado algunos objetos." />
+  <Translate key="Zero Gravity Orb &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="ORBE DE GRAVEDAD CERO &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill your entire inventory." translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Llena todo tu inventario" />
+  <Translate key="Grab an Item and use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to put it in your inventory." translate="Agarra algun objeto y presiona &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; para guardarlo en tu inventario." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item, hold it and press &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. Fill all spots in your inventory to complete the progress bar!" translate="Agarra (&lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;) un objeto, sosténlo y presiona &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. ¡Usa todos&#xA;&#xA;los espacios en tu inventario para poder llenar la barra de progreso!" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; and empty all spots to fill the progress bar!" translate="¡Presiona &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; y vacía todos los espacios de tu invetario para llenar&#xA;&#xA;la barra de progreso!" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to take items out of your inventory." translate="Presiona &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; para sacar los objetos de tu inventario." />
+  <Translate key="Shockwave Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="MINA DE SHOCK &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Frying Pan" translate="SARTÉN" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Empty your entire inventory." translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Vacía todo tu inventario" />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; and view it until you have filled the progress bar!" translate="¡Mantén presionado &lt;u&gt;&lt;b&gt;TABULADOR&lt;/b&gt;&lt;/u&gt; y míralo hasta que hayas llenado&#xA;&#xA;la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Check the map." translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Revisa el mapa" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; to view the map. The map is &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for navigation." translate="Presiona &lt;u&gt;&lt;b&gt;TABULADOR&lt;/b&gt;&lt;/u&gt; para mirar el mapa. El mapa es &lt;b&gt;&lt;u&gt;muy importante&lt;/b&gt;&lt;/u&gt; para la navegación." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the C.A.R.T. by the handle and walk around with it until you have filled the progress bar!" translate="¡Agarra (&lt;u&gt;&lt;b&gt;RATON IZQ.&lt;/b&gt;&lt;/u&gt;) el C.A.R.T. por la manija y camina con él hasta&#xA;&#xA;que hayas llenado la barra de progreso!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Walk around with the C.A.R.T. a little." translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Camina por alrededor un poco&#xA;&#xA;con el C.A.R.T." />
+  <Translate key="This is a C.A.R.T. Grab it by the handle." translate="Esto es un C.A.R.T. Agárralo por la manija." />
+  <Translate key="Mode: WEAK" translate="Modo: DÉBIL" />
+  <Translate key="Put three items into the C.A.R.T." translate="Pon tres artículos en el C.A.R.T." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the C.A.R.T. with valuables." translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Llena el C.A.R.T. con&#xA;&#xA;objetos valiosos." />
+  <Translate key="Fill C.A.R.T.s with valuables. C.A.R.T.s are &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for carrying more stuff." translate="Llena los C.A.R.T.s con objetos valiosos. Los C.A.R.T.s son &lt;b&gt;&lt;u&gt;muy importantes&lt;/b&gt;&lt;/u&gt; para llevar más cosas." />
+  <Translate key="HELLO! FILL THE &lt;b&gt;&lt;u&gt;EXTRACTION POINT&lt;/b&gt;&lt;/u&gt; WITH VALUABLES!" translate="¡¿HOLA?! ¡LLENA EL &lt;b&gt;&lt;u&gt;PUNTO DE EXTRACCIÓN&lt;/b&gt;&lt;/u&gt; CON LOS OBJETOS VALIOSOS!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Extract the valuables." translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Extrae los objetos valiosos" />
+  <Translate key="Activate and fill &lt;b&gt;&lt;u&gt;Extraction Points&lt;/b&gt;&lt;/u&gt; with valuables." translate="Presiona el botón rojo para activar y llenar los &lt;b&gt;&lt;u&gt;Puntos de Extracción&lt;/b&gt;&lt;/u&gt; con objetos valiosos." />
+  <Translate key="$TAX$TAX$" translate="$TAX$TAX$" />
+  <Translate key="TAX$TAX$$" translate="TAX$TAX$$" />
+  <Translate key="$$TAXTAX$" translate="$$TAXTAX$" />
+  <Translate key="Walk into the truck, grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold the message area on the truck screen to send a message!" translate="¡Camina hacia la camión, mantén el botón Agarrar (&lt;u&gt;&lt;b&gt;RATÓN IZQ.&lt;/b&gt;&lt;/u&gt;)&#xA;&#xA;en el área de mensaje de la pantalla del camión para enviar un mensaje!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get into the truck and send a message." translate="&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Sube al camión y envía un mensaje." />
+  <Translate key="Enter the &lt;b&gt;&lt;u&gt;truck&lt;/b&gt;&lt;/u&gt; and send a message to your boss in order to leave a level." translate="Entra al &lt;b&gt;&lt;u&gt;camión&lt;/b&gt;&lt;/u&gt; y envía un mensaje a tu jefe para salir del nivel." />
+  <Translate key="Self Destruction" translate="Te vas a inmolar" />
+  <Translate key="Is that really so?" translate="¿En serio lo haras?" />
+  <Translate key="Leave Lobby" translate="Dejar sala" />
+  <Translate key="Are you sure?" translate="¿Estas seguro?" />
+  <Translate key="Lobby" translate="Sala" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; to chat" translate="Usa la tecla &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; para Chatear" />
+  <Translate key="start game" translate="iniciar" />
+  <Translate key="player joining..." translate="Jugador uniéndose..." />
+  <Translate key="invite" translate="invitar" />
+  <Translate key="Leave" translate="Salir" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; to chat" translate="Presiona &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; para chatear" />
+  <Translate key="Element Name" translate="Nombre elemento" />
+  <Translate key="Everyone ready?&#xA;&#xA;Once the game is started&#xA;new players can not join." translate="¿Todos listos?&#xA;&#xA;Una vez que el juego empiece,&#xA;no podrán unirse nuevos jugadores." />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH&#xA;SPEED&#xA;RANGE&#xA;" translate="SALUD&#xA;RESISTENCIA&#xA;LANZAMIENTO&#xA;VELOCIDAD&#xA;RANGO&#xA;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Find the next extraction point" translate="&#xA;&lt;b&gt;ENFOCARSE &gt; &lt;/b&gt;Encuentra el próximo&#xA;&#xA;punto de extracción" />
+  <Translate key="HEALTH&#xA;" translate="SALUD&#xA;" />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;" translate="SALUD&#xA;RESISTENCIA&#xA;" />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH&#xA;" translate="SALUD&#xA;RESISTENCIA&#xA;LANZAMIENTO&#xA;" />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH&#xA;SPEED&#xA;" translate="SALUD&#xA;RESISTENCIA&#xA;LANZAMIENTO&#xA;VELOCIDAD&#xA;" />
+  <Translate key="SPACE" translate="ESPACIO" />
+  <Translate key="LEFT SHIFT" translate="SHIFT IZQ." />
+  <Translate key="MOUSE LEFT" translate="RATÓN IZQ." />
+  <Translate key="MOUSE RIGHT" translate="RATÓN DER." />
+  <Translate key="MOUSE SCROLL" translate="RUEDA DEL RATÓN" />
+  <Translate key="TAB" translate="TABULADOR" />
+  <Translate key="Microphone volume" translate="Microphone volume" />
+  <Translate key="Varios micrófono..." translate="Varios micrófono..." />
+  <Translate key="Varios micrófonos (Realtek High Definition Audio)" translate="Varios micrófonos (Realtek High Definition Audio)" />
+  <Translate key="ENTER" translate="INTRO" />
+  <Translate key="v0.1.2" translate="&#xA;v0.1.2 - EN ESPAÑOL&#xA;(W.I.P SPANISH TR by sepu)" />
+  <Translate key="Stun Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="GRANADA ATURDIDORA &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Roll Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="DRON ASISTENTE PARA RODAR &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="SMALL HEALTH PACK (20)" translate="BOTIQUÍN PEQUEÑO (20)" />
+  <Translate key="MEDIUM HEALTH PACK (50)" translate="BOTIQUÍN MEDIANO (50)" />
+  <Translate key="BIG HEALTH PACK (100)" translate="BOTIQUÍN GRANDE (100)" />
+  <Translate key="The Broken Ones:" translate="Los Estropeados:" />
+  <Translate key="Team semibeeeeeeeeeeeeeeeeeeeeeots" translate="Equipo semibeeeeeeeeeeeeeeeeeeeeeots" />
+  <Translate key="Zero Gravity Orb" translate="ORBE DE GRAVEDAD CERO" />
+  <Translate key="Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Granada &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stun Mine" translate="Mina aturdidora" />
+  <Translate key="Stun Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Mina aturdidora &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Strength Upgrade" translate="Mejora - Fuerza" />
+  <Translate key="Shockwave Grenade" translate="Granada de Shock" />
+  <Translate key="Recharge Drone" translate="Drone de Re-Carga" />
+  <Translate key="Roll Drone" translate="DRON ASISTENTE PARA RODAR" />
+  <Translate key="Recharge Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Drone de Re-Carga &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Granada de Shock &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Mine" translate="Mina de Shock" />
+  <Translate key="Sword" translate="Espada" />
+  <Translate key="Explosive Mine" translate="Mina explosiva" />
+  <Translate key="Explosive Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Mina explosiva &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Extraction Tracker" translate="Rastreador de extracción" />
+  <Translate key="Extraction Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Rastreador de extracción &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="DELETE SAVE?" translate="¿ELIMINAR GUARDADO?" />
+  <Translate key="Are you REALLY SURE you want to delete this save FOREVER?" translate="¿Estás REALMENTE SEGURO de que&#xA;&#xA;deseas eliminar este guardado&#xA;&#xA;PARA SIEMPRE?" />
+  <Translate key="HEADMAN MANOR" translate="MANSIÓN DEL VERDUGO" />
+  <Translate key="&lt;" translate="&lt;" />
+  <Translate key="&gt;" translate="&gt;" />
+  <Translate key="Time to leave, the truck heals you and revives carried player heads!" translate="¡Hora de irse, El camión te puede curar y revivir a los jugadores con sus cabezas cargadas!" />
+  <Translate key="--" translate="--" />
+  <Translate key="This is the &lt;b&gt;&lt;u&gt;Shop&lt;/b&gt;&lt;/u&gt;, extract items to purchase. No harm lasts here!" translate="Esta es la &lt;b&gt;&lt;u&gt;Tienda&lt;/b&gt;&lt;/u&gt;, extrae los objetos para comprarlos. ¡No se pueden hacer daño aquí!" />
+  <Translate key="HITTING THE ROAD" translate="PONIÉNDOSE EN MARCHA" />
+  <Translate key="Valuable Tracker" translate="Rastreador de Valores" />
+  <Translate key="Valuable Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Rastreador de Valores &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Share your health with other players by grabbing their necks!" translate="¡Comparte tu salud con los demas jugadores agarrandolos de sus nucas!" />
+  <Translate key="DESTROYING SLACKERS" translate="DESTRUYENDO A LOS VAGOS" />
+  <Translate key="$$$$$TAX$" translate="$$$$$TAX$" />
+  <Translate key="LAST LOSER STANDING" translate="¡ÚLTIMO PERDEDOR EN PIE!" />
+  <Translate key="SELF" translate="¡SECUENCIA" />
+  <Translate key="DESTRUCT" translate="DE" />
+  <Translate key="SEQUENCE" translate="AUTODESTRUCCIÓN" />
+  <Translate key="CANCELLED!" translate="CANCELEDA!" />
+  <Translate key="VOICE" translate="V. VOZ" />
+  <Translate key="Shotgun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Escopeta &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="EVERYONE'S A LOSER!" translate="¡TODOS SON UNOS PERDEDORES!" />
+  <Translate key="Gun" translate="Pistola" />
+  <Translate key="Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Pistola &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Buy &lt;b&gt;&lt;u&gt;Power Crystals&lt;/b&gt;&lt;/u&gt; for the &lt;b&gt;&lt;u&gt;Charging Station&lt;/b&gt;&lt;/u&gt; to recharge and repair your gear!" translate="¡Compra &lt;b&gt;&lt;u&gt;Cristales de Energía&lt;/b&gt;&lt;/u&gt; para la &lt;b&gt;&lt;u&gt;Estación de Carga&lt;/b&gt;&lt;/u&gt; y poder recargar, y reparar tus cosas!" />
+  <Translate key="Sledge Hammer" translate="Mazo" />
+  <Translate key="Baseball Bat" translate="Bate de béisbol" />
+  <Translate key="fatal" translate="fatal" />
+  <Translate key="error" translate="error" />
+  <Translate key="friendship." translate="amistad." />
+  <Translate key="I" translate="Yo" />
+  <Translate key="need" translate="necesito" />
+  <Translate key="to" translate="ir" />
+  <Translate key="get" translate="y" />
+  <Translate key="to" translate="entrar" />
+  <Translate key="the" translate="en" />
+  <Translate key="truck" translate="el" />
+  <Translate key="in..." translate="camión..." />
+  <Translate key="I need to get to the truck in..." translate="Yo necesito ir y entrar en el camión..." />
+  <Translate key="SERVER LIST" translate="LISTA DE SERVIDORES" />
+  <Translate key="Connect to the friend" translate="Conectarse al amigo" />
+  <Translate key="REFRESH LOBBIES" translate="Recargar salas" />
+  <Translate key="JOIN" translate="UNIRSE" />
+  <Translate key="Indestructible Drone" translate="Dron Indestructible" />
+  <Translate key="Indestructible Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Dron Indestructible &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Duct Taped Grenades" translate="Granadas caseras" />
+  <Translate key="Duct Taped Grenades &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Granadas caseras &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Rubber Duck" translate="Patito de goma" />
+  <Translate key="Human Grenade" translate="Granada Humana" />
+  <Translate key="Human Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Granada Humana &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Tranq Gun" translate="Pistola Tranquilizadora" />
+  <Translate key="Tranq Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Pistola Tranquilizadora &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Extra Jump Upgrade" translate="Mejora - Doble Salto" />
+  <Translate key="UncleDan" translate="El tio Dan" />
+  <Translate key="Uh oh! No good for you!" translate="¡Uh oh! ¡No va bien para ti!" />
+  <Translate key="The lobby has closed." translate="La sala ha cerrado." />
+  <Translate key="Lobby Closed" translate="Sala cerrada" />
+  <Translate key="Feather Drone" translate="Dron de Ligereza" />
+  <Translate key="Feather Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Dron de Ligereza &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+</ArrayOfTranslate>
